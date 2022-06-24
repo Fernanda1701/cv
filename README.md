@@ -37,7 +37,7 @@ Se preferir, para testar a funcionalidade de envio de e-mail, pode-se substituir
 ## 🛠 Tecnologias
  
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- Versionamento de código no [GitHub](https://github.com/)
+- Versionamento de código no [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
